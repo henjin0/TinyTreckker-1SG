@@ -8,11 +8,11 @@ without rc receiver and battery holder
 - [1A Brushed ESC](https://www.aliexpress.us/item/3256805768884647.html)
 - [FS0403 Servomotor](https://akizukidenshi.com/catalog/g/g114805/)
 - [SMALL DIA. LOW FRICTION NARROW TIRES (24mm) & CARBON WHEELS (3-SPOKE)](https://www.tamiya.com/japan/products/15541/index.html)
-- [LEGO wheel 87697](https://brickers.jp/products/87697-026?srsltid=AfmBOorEdvSBUCp01KrgKwRHm_qqQFQQpaL2RSzCivZuL12u8CWHIzNz)
-- [682ZZ bearing](https://amzn.asia/d/711zVHE)
+- [682ZZ bearing x 2](https://amzn.asia/d/711zVHE)
 - [Float stop rubber](https://amzn.asia/d/cuPSQJc)
 - [2mm x 8mm screw x 4](https://www.monotaro.com/p/5055/4884)
 - [MINI 4WD EYELETS (30PCS.)](https://www.tamiya.com/japan/products/10324/index.html)
+- [60mm REINFORCED SHAFTS x 1](https://www.tamiya.com/japan/products/15416/index.html)
 
 ## Picture
 
